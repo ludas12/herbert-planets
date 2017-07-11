@@ -2,3 +2,7 @@ i was on the edge of my seat.
 eatting potatoes yuck
 I thogt the Martian was Ok.
 sciene was the hero
+NB; it is important to ADD file to staging area then commit.
+Commit message should be in "".
+I think Vvenus would be a better base as she is great athlete.
+ 

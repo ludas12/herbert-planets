@@ -6,3 +6,5 @@ NB; it is important to ADD file to staging area then commit.
 Commit message should be in "".
 I think Vvenus would be a better base as she is great athlete.
 Foreal thanks for books 
+Foreal has hacked your file!!!
+
